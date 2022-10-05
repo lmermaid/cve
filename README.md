@@ -1,11 +1,11 @@
 # Lisa MENEZ
 
-_Economiste / Experte en données :fr:_ <br>
+_Economist / Data Scientist :fr:_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
 <br><br>
-## 👩🏼‍💻 Postes 
+## 👩🏼‍💻 Experiences 
 
 **Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Présent)_<br>
 
@@ -41,7 +41,7 @@ Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
 <br><br>
-## :woman_student: Parcours Universitaire 
+## :woman_student: Education 
 <br>
 
 **Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
@@ -86,14 +86,14 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Linux/Win/Mac
 
 <br><br>
-## :tongue: Langues
+## :tongue: Languages
 
-- :fr: Francais
-- 🇬🇧 Anglais (TOEFL : 2014 -96/120)
-- :es: Espagnol
+- :fr: French
+- 🇬🇧 English (TOEFL : 2014 -96/120)
+- :es: Spain
 
 <br><br>
-## 📌 Volontariat
+## 📌 Voluntering
 
 - Educador : Brigada de Voluntarios Bolivarianos del Perú (:peru: Juil.- Août 2014)
 
