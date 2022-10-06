@@ -34,10 +34,9 @@ Evaluation of the scientific and technological potentials of the Alpes-Maritimes
 ## :woman_student: Education 
 <br>
 
-**Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
+**PhD in Economics** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Dec 2020)_ <br>
 
-**Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
-bénéfices régionaux à l’agglomération : le cas européen*"
+**Title** : "*Effects of commercial an technological integrations on regional agglomeration and welfare outcomes : the case of the European Union*"
 
 **Jury** :
 - Catherine Baumont (Pr Université de Bourgogne)
@@ -45,27 +44,27 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Antonio Musolesi (Pr Università degli Studi di Ferrara)
 - Lionel Nesta (Pr UCA)
 
-[Document de thèse : https://www.theses.fr/2020COAZ0008](https://www.theses.fr/2020COAZ0008)
+[Thesis document : https://www.theses.fr/2020COAZ0008](https://www.theses.fr/2020COAZ0008)
 
 **Summer School of Econometrics** Barcelona School of Economics (2016)
 
-**Master Economie de l’Innovation** UCA (2013-2015)
+**Master "Economie de l’Innovation"** UCA (2013-2015)
 
-**Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
+**Licence "Economie-Gestion"** UCA & University of Virginia (USA) (2010-2013)
 
 <br><br>
-## :hammer_and_wrench: Mes "outils" d'analyse des données
+## :hammer_and_wrench: "My" Sciences for Data
 
-- Outils de régression linéaire (t-tests, ANOVA)
-- Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
-- Construction et analyse de réseaux
-- Analyse de séries temporelles (ARIMA & extrapolation - prédiction)
+- Linear Regression (t-tests, ANOVA)
+- Spatial Clustering methods (Moran’s i) & Spatial Filtering
+- Networks and Graphs
+- Time series analysis (ARIMA & extrapolation - prédiction)
 - Common factors models
 - Spatial models
 - Generalized additive & non-parametric models
 
 <br><br>
-## :computer: Mes "outils" Informatiques / Programmation
+## :computer: "My" Software Tools "outils"
 
 - R (GeoSpatial, ...) 
 - SQL(MariaDB)
@@ -87,5 +86,5 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 - Educador : Brigada de Voluntarios Bolivarianos del Perú (:peru: Juil.- Août 2014)
 
-Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d'autres cultures.
+Initiation of young peruvians to english and foreign cultures.
 <br>
