@@ -5,40 +5,30 @@ _Economist / Data Scientist :fr:_ <br>
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
 <br><br>
+Thanks to my training by and for research, I learnt how to implement innovative but pragmatic solutions to complex problems. My post-doctoral experiences have been the occasion of fruitful collaborations in order to meet the new needs of administrations in terms of decision support informed by data sciences. Today, my ambition is to take part in the challenges of conquering new territories and innovating in a collaborative and friendly team.
+  
+<br><br>
 ## 👩🏼‍💻 Experiences 
 
-**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Présent)_<br>
+**Assistant to the head of the "Industry \& Innovation" office"** @ [French Tresory](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Now)_<br>
 
-Les administrations cherchent à se moderniser et ont de nouveaux
-besoins en matière de compréhension des problèmes financiers
-rencontrés par les universités. Je construis un cadre d’analyse pour
-documenter l’efficience des universités et ainsi optimiser leurs
-fonctionnements. Ce projet s’appuie sur l’appariemment de plusieurs
-bases administratives et permet de fournir de nouvelles
-visualisations des métriques par méthode de "clustering" mettant ainsi
-en évidence de nouveaux faits stylisés.
+Administrations are looking to modernize and have new needs in understanding the financial issues faced by universities. I am building an analytical framework to document the efficiency of universities and thus optimize their operations. This project relies on the matching of several administrative databases and provides new visualizations of metrics by clustering methods, thus highlighting new stylized facts.
 
-![Universités](/assets/images/BNR.png)
+![Needs of Universities](/assets/images/BNR.png)
 
 <br><br>
-**Doctorante (PhD)** @ [GREDEG / UCA&CNRS](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_<br>
+**Doctorat (PhD)** @ [GREDEG / UCA&CNRS](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Dec 2020)_<br>
 
-Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
-(échanges de biens et de connaissances) dans la croissance et dans les
-phénomènes d’agglomération des activités en Europe. Les résultats
-obtenus sont basés sur des modèles paramétriques et non-paramétriques
-à la frontière entre les modèles à facteurs communs et les modèles
-d’économétrie spatiale sur panels.
+This doctoral research focuses on the role of economic integration networks (exchange of goods and knowledge) in the growth and agglomeration of activities in Europe. The results obtained are based on parametric and non-parametric models at the frontier between common factor models and spatial econometric models on panels
 
-:woman_teacher: Durant cette période, je suis **responsable des enseignements** (TD) pour
-- Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
-- Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
-
+:woman_teacher: During this period, I was **responsible for teaching** (tutoring) of
+- "Introduction to econometrics (t-tests, ANOVA)" (in L3 ; 2015)
+- "Statistics 1 (means, conditional statistics...)" (in L1 ; 2018)
+    
 <br><br>
-**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html) _(2015)_<br>
+**Research Assistant** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html) _(2015)_<br>
 
-Evaluation des potentiels scientifiques et technologiques des départements des
-Alpes-Maritimes et Bouches-du-Rhône.
+Evaluation of the scientific and technological potentials of the Alpes-Maritimes and Bouches-du-Rhône departments.
 
 <br><br>
 ## :woman_student: Education 
