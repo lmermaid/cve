@@ -2,7 +2,7 @@
 
 _Economist / Data Scientist :fr:_ <br>
 
-[Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
+[Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cve) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/)
 
 <br><br>
 Thanks to my training by and for research, I learnt how to implement innovative but pragmatic solutions to complex problems. My post-doctoral experiences have been the occasion of fruitful collaborations in order to meet the new needs of administrations in terms of decision support informed by data sciences. Today, my ambition is to take part in the challenges of conquering new territories and innovating in a collaborative and friendly team.
